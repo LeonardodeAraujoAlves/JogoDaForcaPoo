@@ -11,6 +11,9 @@
 <p>Abra o terminal do seu dispositivo e vá ate o local aonde estão os arquivos supracitados</p>
 
 <h3>Requisitos</h3>
+
 <p>Java 8 adiante</p>
 
+<h3>Tecnologias</h3>
+<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
